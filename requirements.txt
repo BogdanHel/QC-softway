@@ -1,5 +1,8 @@
 # first list the packages you wish to download from PyPI
 teachbooks # depends on jupyter-book
+quantuminspire
+qiskit
+projectq
 # numpy
 
 # docutils version for reference page formatting
