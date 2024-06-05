@@ -1,4 +1,4 @@
-# first list the packages you wish to download from PyPI
+# the packages from PyPI
 teachbooks # depends on jupyter-book
 quantuminspire
 qiskit
